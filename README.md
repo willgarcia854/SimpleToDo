@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src=![SimpleToDo_wakthrough](https://user-images.githubusercontent.com/20716315/150714541-435b232f-b49c-4471-a1da-debec9d540e5.gif)
+<img src='https://user-images.githubusercontent.com/20716315/150714541-435b232f-b49c-4471-a1da-debec9d540e5.gif'
  title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with Peek.
