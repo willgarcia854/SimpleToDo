@@ -1,4 +1,5 @@
 package com.example.simpletodo
+import android.R.id.text1
 import android.util.Log
 import android.view.LayoutInflater
 import android.view.View
@@ -50,7 +51,7 @@ class TaskItemAdapter(val listOfItems: List<String>, val longClickListener: OnLo
         // Store references to elements in our layout view
         val textView: TextView
         init {
-            textView = itemView.findViewById(android.R.id.text1)
+            textView = itemView.findViewById(text1)
 
             itemView.setOnLongClickListener {
                 longClickListener.onItemLongClickListener(adapterPosition)
